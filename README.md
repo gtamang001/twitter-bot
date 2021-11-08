@@ -1,4 +1,4 @@
-### Sample twitter bot built from coding train tutorials
+### Sample twitter bot that tweets using the api call to twitter
 
 ### To Run 
 ### Set up NPM
